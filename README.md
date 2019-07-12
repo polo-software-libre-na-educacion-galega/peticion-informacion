@@ -1,4 +1,4 @@
-# peticion-informacion
+# peticion-informacion office 365
 Solicitude de Información pública sobre a implantacion de office 365 nas comunidades autónomas do estado Español.
 
 Comunidades que se lles solitica a información:
