@@ -18,3 +18,10 @@ Comunidades que se lles solitica a información:
 * Navarra
 * [Valencia](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/valencia)
 
+
+Universidades
+* Universidade da Coruña
+* Universidade de Vigo
+* Universidade de Santiago de Compostela
+* UNED
+
