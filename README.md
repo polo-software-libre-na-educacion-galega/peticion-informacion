@@ -20,7 +20,7 @@ Comunidades que se lles solitica a información:
 
 
 Universidades
-* Universidade da Coruña
+* [Universidade da Coruña](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/98_universidades/udc)
 * Universidade de Vigo
 * Universidade de Santiago de Compostela
 * UNED
