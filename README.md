@@ -2,19 +2,19 @@
 Solicitude de Información pública sobre a implantacion de office 365 nas comunidades autónomas do estado Español.
 
 Comunidades que se lles solitica a información:
-* Andalucia
-* Asturias
+* [Andalucia](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/andalucia)
+* [Asturias](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/asturias)
 * Baleares
-* Canarias
+* [Canarias](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/canarias)
 * Castela a Mancha
-* Castela e Leon
+* [Castela e Leon](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/castela%20e%20leon)
 * Catalunya
-* Rioja
+* [Rioja](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/rioja)
 * Cantabria
 * Euskadi
 * Extremadura
 * Madrid
 * Murcia
 * Navarra
-* Valencia
+* [Valencia](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/valencia)
 
