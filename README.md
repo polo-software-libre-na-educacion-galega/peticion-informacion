@@ -12,7 +12,7 @@ Comunidades que se lles solitica a información:
 * [Rioja](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/rioja)
 * Cantabria
 * Euskadi
-* Extremadura
+* [Extremadura](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/extremadura) (inadmisión)
 * Madrid
 * Murcia
 * Navarra
