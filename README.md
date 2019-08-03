@@ -8,7 +8,7 @@ Comunidades que se lles solitica a información:
 * [Canarias](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/canarias)
 * Castela a Mancha
 * [Castela e Leon](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/castela%20e%20leon)
-* Catalunya
+* [Catalunya](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/catalunya)
 * [Rioja](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/rioja)
 * Cantabria
 * Euskadi
