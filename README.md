@@ -2,22 +2,23 @@
 Solicitude de Información pública sobre a implantacion de office 365 nas comunidades autónomas do estado Español.
 
 Comunidades que se lles solitica a información:
-* [Andalucia](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/andalucia)
-* [Asturias](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/asturias)
-* [Aragón](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/aragon)
-* Baleares
-* [Canarias](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/canarias)
-* Castela a Mancha
-* [Castela e Leon](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/castela%20e%20leon)
-* [Catalunya](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/catalunya)
-* Cantabria
-* Euskadi
-* [Extremadura](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/extremadura) (inadmisión)
-* Madrid
-* [Murcia](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/murcia)
-* Navarra
-* [Valencia](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/valencia)
-* [Rioja](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/rioja)
+1. [Andalucia](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/andalucia)
+2. [Asturias](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/asturias)
+3. [Aragón](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/aragon)
+4. Baleares
+5. [Canarias](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/canarias)
+6. Castela a Mancha
+7. [Castela e Leon](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/castela%20e%20leon)
+8. [Catalunya](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/catalunya)
+9. Cantabria
+10. Euskadi
+11. [Extremadura](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/extremadura) (inadmisión)
+12. Galicia
+13. Madrid
+14. [Murcia](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/murcia)
+15. Navarra
+16. [Valencia](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/valencia)
+17. [Rioja](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/rioja)
 
 
 Universidades
