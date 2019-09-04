@@ -25,5 +25,5 @@ Universidades
 * [Universidade da Coruña](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/98_universidades/udc)
 * [Universidade de Vigo](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/98_universidades/uvigo) 
 * [Universidade de Santiago de Compostela](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/98_universidades/usc)
-* [UNED]()
+* [UNED](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/98_universidades/uned)
 
