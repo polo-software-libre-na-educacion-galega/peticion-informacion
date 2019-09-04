@@ -16,7 +16,7 @@ Comunidades que se lles solitica a información:
 12. Galicia
 13. Madrid
 14. [Murcia](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/murcia)
-15. Navarra
+15. [Navarra](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/navarra)
 16. [Valencia](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/valencia)
 17. [Rioja](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/rioja)
 
