@@ -10,7 +10,7 @@ Comunidades que se lles solitica a información:
 6. Castela a Mancha
 7. [Castela e Leon](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/castela%20e%20leon)
 8. [Catalunya](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/catalunya)
-9. Cantabria
+9. [Cantabria](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/cantabria)
 10. [Euskadi](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/euskadi)
 11. [Extremadura](https://github.com/polo-software-libre-na-educacion-galega/peticion-informacion-office-365/tree/master/extremadura) (inadmisión)
 12. Galicia
